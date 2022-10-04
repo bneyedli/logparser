@@ -4,6 +4,7 @@ Simple python service to process and output apache log analysis in json
 # Minimum Requirements
 * Local directory with apache style logs (examples have not been included)
 * Docker
+* Developed with python [poetry](https://python-poetry.org/), [pre-commit](https://pre-commit.com) and local [hooks](https://github.com/bneyedli/pre-commit-hook)
 
 ## Usage -- standalone
 ```
