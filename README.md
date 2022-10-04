@@ -1,4 +1,4 @@
-# Logparser intro
+# Logparser
 Simple python service to process and output apache log analysis in json
 
 # Minimum Requirements
