@@ -1,8 +1,8 @@
-# Logparser intro
+# Logparser
 Simple python service to process and output apache log analysis in json
 
 # Minimum Requirements
-* Local directory with apache style logs
+* Local directory with apache style logs (examples have not been included)
 * Docker
 
 ## Usage -- standalone
